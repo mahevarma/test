@@ -3,3 +3,5 @@ print("hello")
 print("hello good morning")
 
 print("good night")
+
+print("good afternoon")
